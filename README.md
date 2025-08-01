@@ -21,6 +21,7 @@ This is a command-line calculator built in Python. It allows users to perform ba
 2. Copy the code into a file named `calculator.py`.
 3. Open terminal or command prompt and run:
 
+## 📋 Sample Output
 ```
 1. Addition
 2. Subtraction
@@ -32,10 +33,10 @@ Enter the first number: 10
 Enter the second number: 5
 10.0 + 5.0 = 15.0
 
-🧠 Notes
+```
+## 🧠 Notes
 Division by zero is handled gracefully.
 
 Only numeric inputs are expected; no error handling for invalid types is implemented.
 
 The program uses a while True loop for continuous operation.
-```
